@@ -1,7 +1,8 @@
 ## Getting Started
 
 ## Important Notes
-  # Vercel Deployment
+Setting up OAuth, Supabase: https://www.youtube.com/watch?v=7aYgxQ6QAjs&list=PLYHXTr4kGJjEPOZ_RqZG2uIguJCdA5ezT&index=2
+  ## Vercel Deployment
     -  Point the vercel project to the repo
     --  We want to replace localhost:3000 everywhere, and set the right URLs and redirect URLs
     -  Supabase configuration: Project -> Authentication -> URL Configuration
