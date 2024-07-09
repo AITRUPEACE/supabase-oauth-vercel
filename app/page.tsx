@@ -19,7 +19,9 @@ export default function page() {
         </div>
       </div>
       <div className=" border-t pt-10">
-        <h1 className="text-xl font-bold">Boilerplate Project.</h1>
+        <h1 className="text-xl font-bold">
+          My NextJS Full-Stack Boilerplate Project.
+        </h1>
         <p>Supabase | Oauth (Google, Github) | Google Cloud Console | Vercel</p>
         <div className="mt-5">
           <div className="flex items-center gap-5">
