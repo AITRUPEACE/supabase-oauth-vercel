@@ -1,6 +1,7 @@
 ## Getting Started
 
 ## Important Notes
+Thank you to Daily Web Coding for the tutorial and the boilerplate repo: https://github.com/Chensokheng/next-supabase-boilerplate
 Setting up OAuth, Supabase: https://www.youtube.com/watch?v=7aYgxQ6QAjs&list=PLYHXTr4kGJjEPOZ_RqZG2uIguJCdA5ezT&index=2
   ## Vercel Deployment
     -  Point the vercel project to the repo
